@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 🏫 Leady to learn new technologies.
 💪 Open to work .
 
-<a href="https://app.daily.dev/dabagirevalens"><img src="https://api.daily.dev/devcards/b06933be1bff4545a6a3bcaea59b7cc2.png?r=1tw" width="400" alt="DABAGIRE Valens's Dev Card"/></a>
