@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 💫 I'm Full stack developer.
-
 💫 I'm Open source fanatic.
-
 🏫 Leady to learn new technologies.
-
 💪 Open to work.
 
