@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💫 I'm Full stack developer.\n
+💫 I'm Full stack developer.
 💫 I'm Open source fanatic.
 🏫 Leady to learn new technologies.
 💪 Open to work.
-
+📫 How to reach me: valensdabagire@gmail.com
