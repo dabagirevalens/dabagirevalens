@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 💪 Open to work.
 
-📫 How to reach me: https://www.dabagire.me/
+📫 How to reach me: dabagire.me
