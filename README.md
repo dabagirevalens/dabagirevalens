@@ -1,3 +1,3 @@
-## Hi I'm DABAGIRE Valens.
-Learning & Creating.
+## Hi I'm Valens DABAGIRE.
+I'm a learner and a creator.
 
